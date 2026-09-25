@@ -1,4 +1,4 @@
-# 📚 Sistema de Gestión Bibliotecaria - UEZ
+# 📚 Sistema de Gestión Bibliotecaria - UNEZ
 
 Sistema integral para el control de catálogo de libros, préstamos, devoluciones, usuarios (estudiantes y docentes) y cálculo de multas para la biblioteca de la **Universidad Emiliano Zapata**.
 
